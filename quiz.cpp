@@ -8,7 +8,7 @@
 const int SCREEN_WIDTH = 1800;
 const int SCREEN_HEIGHT =900;
 const int MAX_INPUT_CHARS = 20;
-const Color BUTTON_COLOR = { 50, 120, 190, 255 };
+const Color BUTTON_COLOR = { 80, 120, 210, 255 };
 const Color BUTTON_HOVER_COLOR = { 70, 140, 210, 255 };
 const Color CORRECT_COLOR = { 0, 200, 0, 255 };
 const Color WRONG_COLOR = { 200, 0, 0, 255 };
